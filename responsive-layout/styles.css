@@ -7,6 +7,11 @@ html {
   font-family: "Work Sans", sans-serif;
 }
 
+.top-section {
+  background-color: #F3C6BD;
+  padding-top: 39px;
+}
+
 .page {
   width: 1400px;
   margin: auto;
@@ -44,7 +49,7 @@ html {
 .logo__description {
   font-size: 18px;
   line-height: 25px;
-  color: #2B292D;
+  color: #2b292d;
   opacity: 0.6;
 }
 
@@ -55,8 +60,35 @@ html {
 }
 
 .navigation__item {
-  color: #2B292D;
+  color: #2b292d;
   text-decoration: none;
   font-size: 18px;
   line-height: 25px;
+  margin-right: 50px;
+}
+
+.navigation__arrow {
+  background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson24/hw1/arrow.png);
+  display: inline-block;
+  width: 8px;
+  height: 5px;
+}
+
+.navigation__item_selected {
+  font-weight: 700;
+}
+
+.navigation__item:last-child {
+  margin-right: 0;
+}
+
+.header__button {
+  width: 160px;
+  height: 48px;
+  background-color: #3040c4;
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+  border-radius: 2px;
+  border: none;
 }
