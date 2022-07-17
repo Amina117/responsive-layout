@@ -93,6 +93,9 @@ html {
   border: none;
 }
 
-.footer-links {
+.footer {
   height: 50px;
+  width: 1140px;
+  margin: auto;
+  display: flex;
 }
