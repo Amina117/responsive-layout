@@ -92,3 +92,7 @@ html {
   border-radius: 2px;
   border: none;
 }
+
+.footer-links {
+  height: 50px;
+}
