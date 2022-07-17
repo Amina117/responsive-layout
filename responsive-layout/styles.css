@@ -15,6 +15,7 @@ html {
 .page {
   width: 1400px;
   margin: auto;
+  min-height: 100vh;
 }
 
 .header {
@@ -98,4 +99,8 @@ html {
   width: 1140px;
   margin: auto;
   display: flex;
+}
+
+.footer-links {
+
 }
