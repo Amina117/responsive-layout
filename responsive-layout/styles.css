@@ -8,7 +8,7 @@ html {
 }
 
 .top-section {
-  background-color: #F3C6BD;
+  background-color: #f3c6bd;
   padding-top: 39px;
 }
 
@@ -102,5 +102,5 @@ html {
 }
 
 .footer-links {
-
+  margin-top: auto;
 }
