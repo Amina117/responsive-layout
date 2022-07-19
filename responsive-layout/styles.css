@@ -126,7 +126,8 @@ html {
   font-size: 14px;
 }
 
-.terms__item {
+.terms__items {
   text-decoration: none;
   color: rgba(43, 41, 45, 0.6);
+  margin-right: 22px;
 }
