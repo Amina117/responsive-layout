@@ -102,8 +102,13 @@ html {
   margin: auto;
   margin-bottom: 0;
   display: flex;
+  flex-direction: column;
+}
+
+.footer__line {
+  border: 1px solid #2b292d;
 }
 
 .footer-links {
-  margin-top: auto;
+  height: 50px;
 }
