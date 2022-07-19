@@ -99,6 +99,7 @@ html {
 .footer {
   height: 50px;
   width: 1140px;
+  margin: auto;
   margin-bottom: 0;
   display: flex;
 }
