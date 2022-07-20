@@ -119,6 +119,8 @@ html {
   width: 1140px;
   height: 50px;
   margin: 0 auto;
+  display: flex;
+  align-items: center;
 }
 
 .terms {
@@ -130,4 +132,12 @@ html {
   text-decoration: none;
   color: rgba(43, 41, 45, 0.6);
   margin-right: 22px;
+}
+
+.social-links {
+  margin-left: auto;
+}
+
+.social-links__item {
+  text-decoration: none;
 }
