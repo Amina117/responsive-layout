@@ -106,6 +106,14 @@ html {
   width: 1140px;
   height: 338px;
   margin: 0 auto;
+  padding: 44px;
+}
+
+.footer-description {
+  line-height: 26px;
+  font-size: 18px;
+  width: 360px;
+  margin-top: 26px;
 }
 
 .footer__line {
