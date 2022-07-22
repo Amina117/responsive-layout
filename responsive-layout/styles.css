@@ -117,6 +117,14 @@ html {
   color: rgba(43, 41, 45, 0.6);
 }
 
+.downloads {
+  margin-top: 25px;
+}
+
+.downloads__item {
+  margin-right: 10px;
+}
+
 .footer__line {
   border-top: 1px solid #2b292d;
   width: 100%;
