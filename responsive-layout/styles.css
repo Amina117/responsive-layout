@@ -106,7 +106,7 @@ html {
   width: 1140px;
   height: 338px;
   margin: 0 auto;
-  padding: 44px;
+  padding-top: 44px;
 }
 
 .footer-description {
@@ -114,6 +114,7 @@ html {
   font-size: 18px;
   width: 360px;
   margin-top: 26px;
+  color: rgba(43, 41, 45, 0.6);
 }
 
 .footer__line {
