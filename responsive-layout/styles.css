@@ -106,7 +106,10 @@ html {
   width: 1140px;
   height: 338px;
   margin: 0 auto;
-  padding-top: 44px;
+}
+
+.about-company {
+  margin-top: 44px;
 }
 
 .footer-description {
@@ -123,6 +126,10 @@ html {
 
 .downloads__item {
   margin-right: 10px;
+}
+
+.additional-navigation {
+  margin-top: 60px;
 }
 
 .footer__line {
